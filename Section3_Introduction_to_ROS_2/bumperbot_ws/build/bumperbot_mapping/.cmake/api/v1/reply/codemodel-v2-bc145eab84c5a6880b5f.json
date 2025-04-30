@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-555c9be4850b5d2b36cd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bumperbot_mapping",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_bumperbot_mapping_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_bumperbot_mapping_egg-8d61c0bc7e3a1f582f89.json",
+					"name" : "ament_cmake_python_build_bumperbot_mapping_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_bumperbot_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_bumperbot_mapping-03e28811a9fdcee4bb51.json",
+					"name" : "ament_cmake_python_copy_bumperbot_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_mapping_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_mapping_uninstall-6bdac725c7991110514e.json",
+					"name" : "bumperbot_mapping_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mapping_with_known_poses::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mapping_with_known_poses-029b15f98a29ce61feca.json",
+					"name" : "mapping_with_known_poses",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-327052ba54d4fc795f39.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/joel/vsC/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation/Section3_Introduction_to_ROS_2/bumperbot_ws/build/bumperbot_mapping",
+		"source" : "/home/joel/vsC/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation/Section3_Introduction_to_ROS_2/bumperbot_ws/src/bumperbot_mapping"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-102c8d035fb7d4868379.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bumperbot_localization",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_bumperbot_localization_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_bumperbot_localization_egg-00a9c3d941716579cf0b.json",
+					"name" : "ament_cmake_python_build_bumperbot_localization_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_bumperbot_localization::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_bumperbot_localization-232d544c8466a8154300.json",
+					"name" : "ament_cmake_python_copy_bumperbot_localization",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_localization_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_localization_uninstall-2d26864a6320d587f564.json",
+					"name" : "bumperbot_localization_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "imu_republisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imu_republisher-d154035b00a425c54ca1.json",
+					"name" : "imu_republisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kalman_filter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kalman_filter-926af2fab98fd8240889.json",
+					"name" : "kalman_filter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "odometry_motion_model::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-odometry_motion_model-4210379705e7a9f40fd6.json",
+					"name" : "odometry_motion_model",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-24015578f5f39f94b67f.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/joel/vsC/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation/Section3_Introduction_to_ROS_2/bumperbot_ws/build/bumperbot_localization",
+		"source" : "/home/joel/vsC/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation/Section3_Introduction_to_ROS_2/bumperbot_ws/src/bumperbot_localization"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
