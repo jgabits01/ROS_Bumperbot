@@ -1,0 +1,17 @@
+{
+  "package_name": "bumperbot_msgs",
+  "output_dir": "/home/joel/vsC/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation/Section3_Introduction_to_ROS_2/bumperbot_ws/build/bumperbot_msgs/rosidl_generator_type_description/bumperbot_msgs",
+  "idl_tuples": [
+    "/home/joel/vsC/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation/Section3_Introduction_to_ROS_2/bumperbot_ws/build/bumperbot_msgs/rosidl_adapter/bumperbot_msgs:action/Fibonacci.idl",
+    "/home/joel/vsC/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation/Section3_Introduction_to_ROS_2/bumperbot_ws/build/bumperbot_msgs/rosidl_adapter/bumperbot_msgs:srv/AddTwoInts.idl",
+    "/home/joel/vsC/Self-Driving-and-ROS-2-Learn-by-Doing-Plan-Navigation/Section3_Introduction_to_ROS_2/bumperbot_ws/build/bumperbot_msgs/rosidl_adapter/bumperbot_msgs:srv/GetTransform.idl"
+  ],
+  "include_paths": [
+    "geometry_msgs:/home/joel/ros2_jazzy/install/geometry_msgs/share/geometry_msgs",
+    "std_msgs:/home/joel/ros2_jazzy/install/std_msgs/share/std_msgs",
+    "service_msgs:/home/joel/ros2_jazzy/install/service_msgs/share/service_msgs",
+    "builtin_interfaces:/home/joel/ros2_jazzy/install/builtin_interfaces/share/builtin_interfaces",
+    "action_msgs:/home/joel/ros2_jazzy/install/action_msgs/share/action_msgs",
+    "unique_identifier_msgs:/home/joel/ros2_jazzy/install/unique_identifier_msgs/share/unique_identifier_msgs"
+  ]
+}
